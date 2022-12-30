@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Piyush Jaiswal<br>I am interested in Blockchain, Low-level programming, 3D graphics designing and open-source contribution.<br>I am final year Btech student in Manipal University Jaipur
+Hi, I am Piyush Jaiswal<br>I am interested in Blockchain, Low-level programming, 3D graphics designing and open-source contribution.<br>I am final year Btech student in Manipal University Jaipur<br@nd prize in Kardiachain Pioneer Program 2.0 and cash worth $10K
 
 
 ## 🌐 Socials:
